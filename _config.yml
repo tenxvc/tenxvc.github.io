@@ -20,14 +20,13 @@
 title: Ten X Ventures
 email: hello@tenx.vc
 author: Ten X Ventures
-copyright: Copyright © 2020
+copyright: Copyright © 2021
 description: Ten X Ventures invests in seed stage IoT and AI startups in Asia Pacific.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tenx.vc" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 logo: "/White 300 px.png" # the favicon for your site
-
 
 # Build settings
 # theme: minima
